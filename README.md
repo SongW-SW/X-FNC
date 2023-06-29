@@ -22,7 +22,7 @@ Welcome to cite our work! </br>
 @inproceedings{wang2023xfnc,  
   title={Few-shot Node Classification with Extremely Weak Supervision},  
   author={Wang, Song and Dong, Yushun and Ding, Kaize and Chen, Chen and Li, Jundong},  
-  booktitle={IJCAI},  
-  year={2022}  
+  booktitle={WSDM},  
+  year={2023}  
 }
 
