@@ -6,7 +6,7 @@ This is the code for our WSDM 2023 paper "Few-shot Node Classification with Extr
 
 ### Requirement:
 `Python == 3.7.10`
-  torch == 1.8.1
+`torch == 1.8.1`
   torch-cluster == 1.5.9
   torch-scatter == 2.0.6
   torch-sparse == 0.6.9
