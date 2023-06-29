@@ -31,11 +31,11 @@ Then run the command:
 
 ### Citation
 Welcome to cite our work! </br>
-`
+<div style="background-color: #f0f0f0; padding: 10px;">
 @inproceedings{wang2023xfnc,  
   title={Few-shot Node Classification with Extremely Weak Supervision},  
   author={Wang, Song and Dong, Yushun and Ding, Kaize and Chen, Chen and Li, Jundong},  
   booktitle={WSDM},  
   year={2023}  
 }
-`
+</div>
